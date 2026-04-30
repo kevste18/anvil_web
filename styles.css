@@ -874,7 +874,7 @@ nav {
 
       /* ABOUT */
       section { padding: 56px 16px; }
-      .about-video { height: 260px; }
+      .about-video { height: 500px; }
       .about-right h2 { font-size: 2.2rem; }
       .about-pills { gap: 8px; }
 
