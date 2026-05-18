@@ -897,11 +897,11 @@ nav {
       .contact-header h2 { font-size: 2.4rem; }
       .contact-img-wrap div {
         width: 100% !important;
-        height: 300px !important;
+        height: 500px !important;
       }
       .contact-img-wrap iframe {
         width: 100% !important;
-        height: 300px !important;
+        height: 500px !important;
       }
       .location iframe { height: 260px; }
       .contact-detail-val { white-space: normal; }
